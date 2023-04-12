@@ -2,3 +2,6 @@ name = "TestPkg"
 uuid = "f69f418b-cc78-46a9-bce9-ed753c860d18"
 authors = ["Alistair White <alistair@pik-potsdam.de>"]
 version = "0.1.0"
+
+[deps]
+RemoteTestPkg = "1c96aa74-8ecf-4a24-be7b-6c362101acb6"
